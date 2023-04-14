@@ -3,62 +3,57 @@ body * {background-color:#fff;
         font-family: 'Calibri';
 }
 main,
-main * {background-color: #fff; 
-        width: 1200px; 
-        margin-left: 15%; 
-        margin-top: 150px; 
-        display: flex; 
-        gap: 64px;
+.container {width: 1200px; 
+            margin-left: 200px; 
+            margin-top: 150px; 
+            display: flex; 
+            gap: 64px;
 }
-div {background-color: #fff; 
-     width: 15%;
+.Icolumn {width: 230px;
 }
-img {background-color: #51C3CD; 
+.Ilogo {background-color: #51C3CD; 
      width: 230px; 
      object-fit: contain; height: 230px; 
      object-position: center;
 }
-h1 {text-align: center; 
+.Itit {text-align: center; 
     color: #F24C32;
 }
-p {font-size: 22px;
+.Ipar {font-size: 22px;
 }
-div {background-color: #fff; 
-     width: 15%;
+.IIcolumn {width: 230px;
 }
-img {background-color: #3A6EC1; 
+.IIlogo {background-color: #3A6EC1; 
      width: 230px; 
      object-fit: contain; height: 230px; 
      object-position: center;
 }
-h1 {text-align: center; 
+.IItit {text-align: center; 
     color: #F24C32;
 }
-p {font-size: 22px;
+.IIpar {font-size: 22px;
 }
-div {background-color: #fff; 
-     width: 15%;
+.IIIcolumn {width: 230px;
 }
-img {background-color: #F34D33; 
+.IIIlogo {background-color: #F34D33; 
      width: 230px; 
      object-fit: contain; height: 230px; 
      object-position: center;
 }
-h1 {text-align: center; 
+.IIItit {text-align: center; 
     color: #F24C32;
 }
-p {font-size: 22px;
+.IIIpar {font-size: 22px;
 }
-div {background-color: #fff; 
-     width: 15%;
+.IVcolumn {width: 230px;
 }
-img {background-color: #919191; 
+.IVlogo {background-color: #919191; 
      width: 230px; 
      object-fit: contain; height: 230px; 
      object-position: center;
 }
-h1 {text-align: center; 
+.IVtit {text-align: center; 
     color: #F24C32;
 }
-p {font-size: 22px;
+.IVpar {font-size: 22px;
 }
